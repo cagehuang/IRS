@@ -10,7 +10,15 @@ namespace Inventory_Reservation_Scheme
     {
         static void Main(string[] args)
         {
-            //test
+            // 1. UE setup
+
+            // 2. OCS setup
+            
+            // 3. Environment setup
+
+            // 4. Run
+
+
         }
     }
 }
